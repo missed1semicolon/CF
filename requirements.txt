@@ -1,0 +1,9 @@
+runpod
+einops==0.8.1
+timm==0.9.16
+Pillow
+numpy
+scipy
+scikit-image
+matplotlib
+opencv-python-headless
